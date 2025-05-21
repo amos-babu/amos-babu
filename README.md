@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<!--
+<!-- COMMENT
 **amos-babu/amos-babu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Amos Babu
+<-- ## Hi there 👋
+## I'm Amos Babu -->
+
+<h1 align="center">Hey there 👋, I'm Amos Babu</h1>
+<p align="center">
+  <em>Full-stack Web Developer | Problem Solver | OSS Enthusiast</em>
+</p>
 
 I'm a passionate **full-stack developer** skilled in building real-world applications using:
 
@@ -53,11 +58,9 @@ I'm a passionate **full-stack developer** skilled in building real-world applica
 
 ## 🌱 Currently Learning
 
-- Building production-ready **Go web apps without frameworks**
+- Building production-ready **Go web apps**
 - Optimizing WSL + Linux-based dev workflows
 - Exploring **AI/NLP** project ideas
-
----
 
 > “Consistency builds mastery.”
 
@@ -84,18 +87,6 @@ I'm a passionate full-stack developer focused on building scalable, real-world a
 ---
 
 ### 🚀 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
 
 ---
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm Amos Babu
+## I'm Amos Babu
 
 I'm a passionate **full-stack developer** skilled in building real-world applications using:
 

@@ -15,15 +15,18 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 👋, I'm Amos Babu</h1>
-<p align="center">
-  <em>Full-stack Web Developer | Problem Solver | OSS Enthusiast</em>
-</p>
+<p align="center">Full-stack dev by day 💻, keyboard ninja by night ⚡</p>
 
 <h1 align="center">💼 About Me</h1>
 
 <p align="center">
-  I'm a passionate full-stack developer focused on building scalable, real-world applications. From creating REST APIs with Laravel and Go, to building dynamic frontends with React and TypeScript, I enjoy crafting robust, efficient, and elegant solutions.
+   I'm a curious, code-slinging developer with a love for building cool stuff on the web. Whether it's APIs in Laravel, pixel-perfect UIs in React, or unleashing some Go magic, I’m all in. I like writing code that *works*, is clean, and sometimes even clever.
 </p>
+
+- 🚀 I build full-stack apps — from backend brains to frontend faces
+- 🔐 JWT Auth? Real-time Chat? File Uploads? Done it ✔️
+- 🐧 Dev on Linux (via WSL), build like a beast ⚒️
+- 🧪 Currently playing with: Go, NLP, and custom Linux tooling
 
 ## 🔧 Tools & Technologies
 
@@ -39,8 +42,15 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 🚀 Projects
+## 🧰 My Stack of Toys
 
+| Backend | Frontend | DBs & Infra | Tools |
+|--------|----------|-------------|--------|
+| Laravel • Node.js • Go | React • TypeScript • Tailwind | MySQL • PostgreSQL • Redis • Docker | Git • WSL • SSH • Vite • Postman |
+
+---
+
+<!--
 ## 📂 Featured Projects
 
 - 🧩 **Chat App** – Laravel Echo, React + WebSockets with private channels
@@ -49,13 +59,13 @@ Here are some ideas to get you started:
 - 📁 **File Upload System** – React + Laravel API with protected file storage & DXF viewer
 - 🧠 **NLP Experiment** – Early-stage AI-driven backend service for processing text
 - 📦 **Dockerized apps** for smooth deployment
-- 🔄 **Project Management** Real-time features with Laravel Broadcasting
+- 🔄 **Project Management** Real-time features with Laravel Broadcasting -->
 
-## 📈 GitHub Stats
+## 📊 Stats & Shenanigans
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amos-babu&show_icons=true&theme=github_dark" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amos-babu&theme=github-dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amos-babu&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amos-babu&theme=radical" height="170" />
 </p>
 
 ## 🛠️ Dev Workflow & Environment
@@ -70,7 +80,12 @@ Here are some ideas to get you started:
 - Optimizing WSL + Linux-based dev workflows
 - Exploring **AI/NLP** project ideas
 
+## 🧠 Fun Facts
+
+- 🔍 Favorite bug: The one that vanishes after `console.log()`
+
 > “Consistency builds mastery.”
 
 
-<p align="right">Thanks for stopping by! ⭐</p>
+<p align="center">Thanks for dropping by! 🌟 If you liked anything here, drop a ⭐ on a repo — or say hi!
+ ⭐</p>

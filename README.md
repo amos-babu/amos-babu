@@ -64,11 +64,6 @@ Here are some ideas to get you started:
 - 🐳 Docker containers for services and local development
 - ⚡ Real-time features with Laravel Broadcasting / Echo + React
 
-## 📫 How to reach me
-
-- GitHub: [@amos-babu](https://github.com/amos-babu)
-- Email: `amos.babu.yahoo.com`
-
 ## 🌱 Currently Learning
 
 - Building production-ready **Go web apps**
@@ -79,31 +74,3 @@ Here are some ideas to get you started:
 > _“Code is like humor. When you have to explain it, it’s bad.”_
 
 Thanks for stopping by! ⭐
-
-## TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
-
-<h1 align="center">Hey there 👋, I'm Amos Babu</h1>
-<p align="center">
-  <em>Full-stack Web Developer | Problem Solver | OSS Enthusiast</em>
-</p>
-
----
-
-
----
-
-
----
-
-
----
-
-
----
-
-
-
----
-
-
-

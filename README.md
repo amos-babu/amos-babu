@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   I'm a passionate **full-stack developer** skilled in building real-world applications using:
-
-- ⚙️ Backend: **Laravel**, **Node.js (Express)**, **Go**
-- 🌐 Frontend: **React**, **TypeScript**, **Astro**
-- 🧠 Learning: **Python**, **NLP**, **AI Projects**
-- 💬 Real-time Apps: **Laravel Echo**, **WebSockets**, **Chat Systems**
 </p>
+
+## 💼 About Me
+
+I'm a passionate full-stack developer focused on building scalable, real-world applications. From creating REST APIs with Laravel and Go, to building dynamic frontends with React and TypeScript, I enjoy crafting robust, efficient, and elegant solutions.
 
 ## 🔧 Tools & Technologies
 
@@ -47,11 +46,28 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-- 🎯 **Chat App** with Laravel + React + WebSockets
-- 🛍️ **E-commerce** site with Stripe payments and file uploads
-- 🔐 **JWT Auth APIs** with Express.js and React
+## 📂 Featured Projects
+
+- 🧩 **Chat App** – Laravel Echo, React + WebSockets with private channels
+- 🛒 **E-Commerce Platform** – Stripe payments, image uploads, secure auth, role-based control
+- 🔐 **JWT Auth System** – Express & React, token handling, refresh flow, middleware
+- 📁 **File Upload System** – React + Laravel API with protected file storage & DXF viewer
+- 🧠 **NLP Experiment** – Early-stage AI-driven backend service for processing text
 - 📦 **Dockerized apps** for smooth deployment
-- 🔄 Real-time features with Laravel Broadcasting
+- 🔄 **Project Management** Real-time features with Laravel Broadcasting
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amos-babu&show_icons=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amos-babu&theme=github-dark" width="49%" />
+</p>
+
+## 🛠️ Dev Workflow & Environment
+
+- 🧩 Git + SSH + WSL optimized for speed (Linux builds, SSH auth, `nodemon`, `pigz`, `tar`)
+- 🐳 Docker containers for services and local development
+- ⚡ Real-time features with Laravel Broadcasting / Echo + React
 
 ## 📫 How to reach me
 
@@ -65,8 +81,9 @@ Here are some ideas to get you started:
 - Exploring **AI/NLP** project ideas
 
 > “Consistency builds mastery.”
+> _“Code is like humor. When you have to explain it, it’s bad.”_
 
-Thanks for visiting my profile!
+Thanks for stopping by! ⭐
 
 ## TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 
@@ -77,69 +94,21 @@ Thanks for visiting my profile!
 
 ---
 
-### 💼 About Me
-
-I'm a passionate full-stack developer focused on building scalable, real-world applications. From creating REST APIs with Laravel and Go, to building dynamic frontends with React and TypeScript, I enjoy crafting robust, efficient, and elegant solutions.
-
-- 💻 Backend: Laravel | Go (Gin & Standard Library) | Node.js (Express)
-- 🌐 Frontend: React | Astro | TypeScript | Tailwind CSS
-- 🧠 Currently Exploring: NLP | AI-Powered Features | Go Web Servers Without Frameworks
-- 🌍 Linux + WSL Dev Environment | GitHub SSH | Shell & CLI Tools
 
 ---
 
-### 🚀 Tech Stack
 
 ---
 
-### 📂 Featured Projects
-
-- 🧩 **Chat App** – Laravel Echo, React + WebSockets with private channels
-- 🛒 **E-Commerce Platform** – Stripe payments, image uploads, secure auth, role-based control
-- 🔐 **JWT Auth System** – Express & React, token handling, refresh flow, middleware
-- 📁 **File Upload System** – React + Laravel API with protected file storage & DXF viewer
-- 🧠 **NLP Experiment** – Early-stage AI-driven backend service for processing text
 
 ---
 
-### 🛠️ Dev Workflow & Environment
-
-- 🧩 Git + SSH + WSL optimized for speed (Linux builds, SSH auth, `nodemon`, `pigz`, `tar`)
-- 🐳 Docker containers for services and local development
-- ⚡ Real-time features with Laravel Broadcasting / Echo + React
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amos-babu&show_icons=true&theme=github_dark" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amos-babu&theme=github-dark" width="49%" />
-</p>
 
 ---
 
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/your-devto-username" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-</p>
-
----
-
-_“Code is like humor. When you have to explain it, it’s bad.”_
-
-Thanks for stopping by! ⭐
 
 

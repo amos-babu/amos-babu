@@ -76,9 +76,11 @@ Here are some ideas to get you started:
 
 ## 🌱 Currently Learning
 
-- Building production-ready **Go web apps**
-- Optimizing WSL + Linux-based dev workflows
-- Exploring **AI/NLP** project ideas
+<p align="center">
+   - Building production-ready **Go web apps**
+   - Optimizing WSL + Linux-based dev workflows
+   - Exploring **AI/NLP** project ideas
+</p>
 
 ## 🧠 Fun Facts
 
@@ -87,5 +89,5 @@ Here are some ideas to get you started:
 > “Consistency builds mastery.”
 
 
-<p align="center">Thanks for dropping by! 🌟 If you liked anything here, drop a ⭐ on a repo — or say hi!
+<p align="left">Thanks for dropping by! 🌟 If you liked anything here, drop a ⭐ on a repo — or say hi!
  ⭐</p>

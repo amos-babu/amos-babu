@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ Dev Workflow & Environment
 
-- 🧩 Git + SSH + WSL optimized for speed (Linux builds, SSH auth, `nodemon`, `pigz`, `tar`)
+- 🧩 Git + SSH + WSL optimized for speed
 - 🐳 Docker containers for services and local development
 - ⚡ Real-time features with Laravel Broadcasting / Echo + React
 
@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 - Exploring **AI/NLP** project ideas
 
 > “Consistency builds mastery.”
-> _“Code is like humor. When you have to explain it, it’s bad.”_
 
 
 <p align="right">Thanks for stopping by! ⭐</p>

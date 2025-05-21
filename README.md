@@ -22,12 +22,14 @@ Here are some ideas to get you started:
   <em>Full-stack Web Developer | Problem Solver | OSS Enthusiast</em>
 </p>
 
-I'm a passionate **full-stack developer** skilled in building real-world applications using:
+<p align="center">
+  I'm a passionate **full-stack developer** skilled in building real-world applications using:
 
 - ⚙️ Backend: **Laravel**, **Node.js (Express)**, **Go**
 - 🌐 Frontend: **React**, **TypeScript**, **Astro**
 - 🧠 Learning: **Python**, **NLP**, **AI Projects**
 - 💬 Real-time Apps: **Laravel Echo**, **WebSockets**, **Chat Systems**
+</p>
 
 ## 🔧 Tools & Technologies
 

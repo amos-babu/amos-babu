@@ -19,15 +19,11 @@ Here are some ideas to get you started:
   <em>Full-stack Web Developer | Problem Solver | OSS Enthusiast</em>
 </p>
 
-<p align="center">
-
-</p>
-
 <h1 align="center">💼 About Me</h1>
 
-## 💼 About Me
-
-I'm a passionate full-stack developer focused on building scalable, real-world applications. From creating REST APIs with Laravel and Go, to building dynamic frontends with React and TypeScript, I enjoy crafting robust, efficient, and elegant solutions.
+<p align="center">
+  I'm a passionate full-stack developer focused on building scalable, real-world applications. From creating REST APIs with Laravel and Go, to building dynamic frontends with React and TypeScript, I enjoy crafting robust, efficient, and elegant solutions.
+</p>
 
 ## 🔧 Tools & Technologies
 

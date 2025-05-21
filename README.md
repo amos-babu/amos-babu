@@ -73,4 +73,5 @@ Here are some ideas to get you started:
 > “Consistency builds mastery.”
 > _“Code is like humor. When you have to explain it, it’s bad.”_
 
-Thanks for stopping by! ⭐
+
+<p align="right">Thanks for stopping by! ⭐</p>

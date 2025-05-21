@@ -46,7 +46,7 @@ I'm a passionate **full-stack developer** skilled in building real-world applica
 ## 📫 How to reach me
 
 - GitHub: [@amos-babu](https://github.com/amos-babu)
-- Email: `your-email@example.com` *(replace this with your real email)*
+- Email: `amos.babu.yahoo.com`
 
 ## 🌱 Currently Learning
 

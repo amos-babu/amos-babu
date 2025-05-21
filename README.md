@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<-- ## Hi there 👋
-## I'm Amos Babu -->
-
 <h1 align="center">Hey there 👋, I'm Amos Babu</h1>
 <p align="center">
   <em>Full-stack Web Developer | Problem Solver | OSS Enthusiast</em>
 </p>
 
 <p align="center">
-  I'm a passionate **full-stack developer** skilled in building real-world applications using:
+
 </p>
+
+<h1 align="center">💼 About Me</h1>
 
 ## 💼 About Me
 

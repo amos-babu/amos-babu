@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 | Backend | Frontend | DBs & Infra | Tools |
 |--------|----------|-------------|--------|
-| Laravel • Node.js • Go | React • TypeScript • Tailwind | MySQL • PostgreSQL • Redis • Docker | Git • WSL • SSH • Vite • Postman |
+| Laravel • Node.js • Go | React • TypeScript • Tailwind | MySQL • PostgreSQL • MongoDB • Redis • Docker | Git • WSL • SSH • Vite • Postman |
 
 ## 📂 Featured Projects
 

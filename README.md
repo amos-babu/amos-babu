@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 |--------|----------|-------------|--------|
 | Laravel • Node.js • Go | React • TypeScript • Tailwind | MySQL • PostgreSQL • Redis • Docker | Git • WSL • SSH • Vite • Postman |
 
----
-
-<!--
 ## 📂 Featured Projects
 
 - 🧩 **Chat App** – Laravel Echo, React + WebSockets with private channels
@@ -59,7 +56,7 @@ Here are some ideas to get you started:
 - 📁 **File Upload System** – React + Laravel API with protected file storage & DXF viewer
 - 🧠 **NLP Experiment** – Early-stage AI-driven backend service for processing text
 - 📦 **Dockerized apps** for smooth deployment
-- 🔄 **Project Management** Real-time features with Laravel Broadcasting -->
+- 🔄 **Project Management** Real-time features with Laravel Broadcasting 
 
 ## 📊 Stats & Shenanigans
 

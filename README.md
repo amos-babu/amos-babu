@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋, I'm Amos Babu</h1>
 <p align="center">Full-stack dev by day 💻, keyboard ninja by night ⚡</p>
 
-<h1 align="center">💼 About Me</h1>
-
 <p align="center">
    I'm a curious, code-slinging developer with a love for building cool stuff on the web. Whether it's APIs in Laravel, pixel-perfect UIs in React, or unleashing some Go magic, I’m all in. I like writing code that *works*, is clean, and sometimes even clever.
 </p>
@@ -40,13 +38,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-## 🧰 My Stack of Toys
-
-| Backend | Frontend | DBs & Infra | Tools |
-|--------|----------|-------------|--------|
-| Laravel • Node.js • Go | React • TypeScript • Tailwind | MySQL • PostgreSQL • MongoDB • Redis • Docker | Git • WSL • SSH • Vite • Postman |
 
 ## 📂 Featured Projects
 

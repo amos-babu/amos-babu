@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋, I'm Amos Babu</h1>
-<p align="center">Full-stack dev by day 💻, keyboard ninja by night ⚡</p>
+<h1 align="left">Hey there 👋, I'm Amos Babu</h1>
+<p align="left">Full-stack dev by day 💻, keyboard ninja by night ⚡</p>
 
-<p align="center">
+<p align="left">
    I'm a curious, code-slinging developer with a love for building cool stuff on the web. Whether it's APIs in Laravel, pixel-perfect UIs in React, or unleashing some Go magic, I’m all in. I like writing code that *works*, is clean, and sometimes even clever.
 </p>
 
@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 
 ## 📊 Stats & Shenanigans
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amos-babu&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amos-babu&theme=radical" height="170" />
-</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=amos-babu&show_icons=true&theme=radical" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amos-babu&theme=radical" height="170" />
+
 
 ## 🛠️ Dev Workflow & Environment
 
@@ -54,11 +54,9 @@ Here are some ideas to get you started:
 
 ## 🌱 Currently Learning
 
-<p align="center">
-   - Building production-ready **Go web apps**
-   - Optimizing WSL + Linux-based dev workflows
-   - Exploring **AI/NLP** project ideas
-</p>
+- Building production-ready **Go web apps**
+- Optimizing WSL + Linux-based dev workflows
+- Exploring **AI/NLP** project ideas
 
 ## 🧠 Fun Facts
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey there 👋, I'm Amos Babu</h1>
+<h2 align="left">Hey there 👋, I'm Amos Babu</h2>
 <p align="left">Full-stack dev by day 💻, keyboard ninja by night ⚡</p>
 
 <p align="left">

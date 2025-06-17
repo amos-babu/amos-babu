@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🧪 Currently playing with: Go, NLP, and custom Linux tooling
 
 ## 🔧 Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,docker,php,laravel,mongodb,nginx,git,postgres,react,remix,ts,vite,go,python,mysql,tailwindcss&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,docker,php,laravel,mongodb,nginx,git,postgres,react,remix,ts,vite,go,python,mysql,tailwindcss,python&perline=10)](https://skillicons.dev)
 
 ## 📂 Featured Projects
 

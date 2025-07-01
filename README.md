@@ -39,13 +39,6 @@ Here are some ideas to get you started:
 - 📦 **Dockerized apps** for smooth deployment
 - 🔄 **Project Management** Real-time features with Laravel Broadcasting 
 
-## 📊 Stats & Shenanigans
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=amos-babu&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amos-babu&theme=radical" height="170" />
-
-
 ## 🛠️ Dev Workflow & Environment
 
 - 🧩 Git + SSH + WSL optimized for speed

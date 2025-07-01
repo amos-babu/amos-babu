@@ -26,24 +26,22 @@ Here are some ideas to get you started:
 - 🐧 Dev on Linux (via WSL), build like a beast ⚒️
 - 🧪 Currently playing with: Go, NLP, and custom Linux tooling
 
-# 🔧 Tools & Technologies
+### 🔧 Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,go,python,ts,postgres,mysql,mongodb,laravel,react,remix,tailwindcss,docker,nginx,git,vite&perline=10)](https://skillicons.dev)
 
-# 🛠️ Dev Workflow & Environment
+### 🛠️ Dev Workflow & Environment
 
 - 🧩 Git + SSH + WSL optimized for speed
 - 🐳 Docker containers for services and local development
 - ⚡ Real-time features with Laravel Broadcasting / Echo + React
 
-# 🌱 Currently Learning
+### 🌱 Currently Learning
 
 - Building production-ready **Go web apps**
 - Optimizing WSL + Linux-based dev workflows
 - Exploring **AI/NLP** project ideas
 
-# 🧠 Fun Facts
-
-- 🔍 Favorite bug: The one that vanishes after `console.log()`
+ - 👯 I’m looking to collaborate on reactjs, laravel or golang application anywhere anytime
 
 > “Consistency builds mastery.”
 

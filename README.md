@@ -24,15 +24,9 @@ Here are some ideas to get you started:
 ### 🔧 Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,go,python,ts,postgres,mysql,mongodb,laravel,react,remix,tailwindcss,docker,nginx,git,vite&perline=10)](https://skillicons.dev)
 
-### 🛠️ Dev Workflow & Environment
-
-- 🧩 Git + SSH + WSL optimized for speed
-- 🐳 Docker containers for services and local development
-- ⚡ Real-time features with Laravel Broadcasting / Echo + React
-
 ### 🌱 Currently Learning
 
-- Building production-ready **Go web apps**
+- Building production-ready **Go web apps**, **Laravel** and **react** for frontend
 - Optimizing WSL + Linux-based dev workflows
 - Exploring **AI/NLP** project ideas
 

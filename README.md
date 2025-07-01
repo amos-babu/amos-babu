@@ -21,11 +21,6 @@ Here are some ideas to get you started:
    I'm a curious, code-slinging developer with a love for building cool stuff on the web. Whether it's APIs in Laravel, pixel-perfect UIs in React, or unleashing some Go magic, I’m all in. I like writing code that *works*, is clean, and sometimes even clever.
 </p>
 
-- 🚀 I build full-stack apps — from backend brains to frontend faces
-- 🔐 JWT Auth? Real-time Chat? File Uploads? Done it ✔️
-- 🐧 Dev on Linux (via WSL), build like a beast ⚒️
-- 🧪 Currently playing with: Go, NLP, and custom Linux tooling
-
 ### 🔧 Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,go,python,ts,postgres,mysql,mongodb,laravel,react,remix,tailwindcss,docker,nginx,git,vite&perline=10)](https://skillicons.dev)
 

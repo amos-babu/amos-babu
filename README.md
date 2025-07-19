@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left">Full-stack dev by day 💻, keyboard ninja by night ⚡</p>
 
 <p align="left">
-   I'm a curious, code-slinging developer with a love for building cool stuff on the web. Whether it's APIs in Laravel, pixel-perfect UIs in React, or unleashing some Go magic, I’m all in. I like writing code that *works*, is clean, and sometimes even clever.
+   I'm an inquisitive developer who loves to create amazing things on the web.  I'm fine for using Laravel's APIs, React's pixel-perfect user interfaces, or using Go wizardry.  Writing code that *works*, is neat, and occasionally even ingenious is what I enjoy doing.
 </p>
 
 ### 🔧 Tools & Technologies

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🌱 Currently Learning
 
-- Building production-ready **Go web apps**, **Laravel** and **react** for frontend
+- Building production-ready **Go backends**, **Laravel web apps** and **react** for frontend
 - Optimizing WSL + Linux-based dev workflows
 - Exploring **AI/NLP** project ideas
 
